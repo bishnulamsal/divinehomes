@@ -194,12 +194,12 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 /* Carousel */
 .home .carousel {
     position: relative;
-    height: 700px;
+    height: 100%;
     display: inline-block;
 }
 .home .carousel .item img{
     width:100%;
-    height: 700px;
+    height: 100%;
 }
 /*.carousel-inner > .item > a > img,
 .carousel-inner > .item > img {
