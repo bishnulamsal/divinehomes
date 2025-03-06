@@ -1,4 +1,4 @@
-# 🌐 My Awesome Website
+# 🌐 Divine Construction
 
 Welcome to **My Awesome Website**! This is a modern, responsive, and user-friendly website designed to showcase amazing content.
 
@@ -42,7 +42,7 @@ npm start
 ```
 
 ## 🌍 Live Demo
-Check out the live website: [My Awesome Website](https://divineconstruction.com.np/)
+Check out the live website: [Divine Construction](https://divineconstruction.com.np/)
 
 ## 🤝 Contributing
 Contributions are welcome! To contribute:
