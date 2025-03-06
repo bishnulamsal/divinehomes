@@ -36,7 +36,7 @@ To set up the project locally, follow these steps:
 
 ```sh
 git clone https://github.com/bishnulamsal/divinehomes.git
-cd my-awesome-website
+cd divinehomes
 npm install
 npm start
 ```
