@@ -1,34 +1,32 @@
 # 🌐 Divine Construction
 
-Welcome to **My Awesome Website**! This is a modern, responsive, and user-friendly website designed to showcase amazing content.
+Welcome to **Divine Construction** – a modern, responsive, and user-friendly website designed to showcase Divine Homes. This static website is built using HTML, CSS, and JavaScript, ensuring a clean, attractive design and optimal user experience.
 
-## 🚀 Features
-- Fully responsive design 📱💻
-- Clean and modern UI 🎨
-- Fast loading ⚡
-- SEO optimized 🔍
-- Easy navigation 🧭
+## Features
+- **Responsive Design:** Optimized for all devices.
+- **Modern UI:** Clean, minimalistic interface.
+- **Fast Loading:** Optimized performance.
+- **SEO Optimized:** Built with best practices for search engine ranking.
+- **Easy Navigation:** Intuitive structure for seamless browsing.
 
 ## 🔧 Technologies Used
-- HTML5 & CSS3
-- JavaScript (ES6+)
-- Bootstrap / TailwindCSS
-- React / Vue / Angular (choose one if applicable)
+## Technologies Used
+- **HTML5 & CSS3** for structure and styling.
+- **JavaScript (ES6+)** for dynamic interactions.
+- Optionally, easily integrable with frameworks like Bootstrap or TailwindCSS.
 
 ## 📂 Project Structure
 ```
-📂 my-awesome-website
-├── 📁 public
-│   ├── index.html
-│   ├── favicon.ico
-├── 📁 src
-│   ├── 📁 assets
-│   ├── 📁 components
-│   ├── 📁 pages
-│   ├── App.js
-│   ├── index.js
-├── package.json
-└── README.md
+Divine Homes/
+├── css/             # Stylesheets for the project
+├── custom-font/     # Custom font files used in the design
+├── fancy-img/       # Special image effects and assets
+├── fonts/           # Additional font files
+├── images/          # Image assets for the website
+├── js/              # JavaScript files for interactivity
+├── CNAME            # Custom domain configuration for GitHub Pages
+├── index.html       # Main HTML file for the website
+└── README.md        # This README file
 ```
 
 ## 📦 Installation
